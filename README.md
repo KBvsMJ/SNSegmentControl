@@ -13,3 +13,5 @@ UIStoryboard *tempSB = [UIStoryboard storyboardWithName:@"你的故事板名" bu
     [self loadSetViewController:ctlArr andSegementTitle:@[@"TestA",@"TestB"] andCompleteHandler:^(NSInteger selectSegmentIndex) {
         selectIndex = selectSegmentIndex;
     }];
+#3demo演示gif图
+![image](https://github.com/KBvsMJ/SNSegmentControl/commit/5f08d7fb40375905d53335137186972126545cda/demogif/1.gif)
